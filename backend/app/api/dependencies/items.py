@@ -38,6 +38,9 @@ def get_items_filters(
 =======
         offset=offset,
         title=title
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     )
 
